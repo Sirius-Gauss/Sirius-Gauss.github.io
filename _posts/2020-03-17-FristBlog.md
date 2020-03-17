@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      the establishment of a blog
+title:      FirstBlog
 subtitle:   blog
 date:       2020-03-17
 author:     S.Ga
