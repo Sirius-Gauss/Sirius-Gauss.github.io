@@ -37,9 +37,12 @@ tags:
 # 代码框
 
 `\begin{figure}[H]%%图`
-`	\centering  %插入的图片居中表示`
-`	\includegraphics[width=1.0\linewidth]{fig/kuchie-001.jpg}  %插入的图，包括JPG,PNG,PDF,EPS等，放在源文件目录下`
-`\end{figure} `
+
+`\centering  %插入的图片居中表示`
+
+`\includegraphics[width=1.0\linewidth]{fig/kuchie-001.jpg}  %插入的图，包括JPG,PNG,PDF,EPS等，放在源文件目录下`
+
+`\end{figure}`
 
 
 # 链接
@@ -58,11 +61,11 @@ tags:
 `>`
 
 # 表格
-
+---
 |A|B|C|
 |1|2|3|
 |α|β|γ|
-
+---
 
 
 
