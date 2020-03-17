@@ -10,14 +10,14 @@ tags:
     - 日记
 ---
 
-尝试一下载github搭建一个blog...
+尝试一下在github搭建一个blog...当然这个是fork来的
 可以说是自己闲得无聊找事做
 
 #测试一下引用
 
 ##测试一下引用
 
-这是链接→[tsdm](www.tsdm.live)
+这是链接→[tsdm](http://www.tsdm.live)
 
 之后有可能发布自己的录入信息汇总，或者是写学习笔记
 
